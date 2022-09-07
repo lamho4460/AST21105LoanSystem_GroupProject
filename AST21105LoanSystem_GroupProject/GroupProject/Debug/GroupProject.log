@@ -1,0 +1,9 @@
+﻿  Admin.cpp
+  Equipment.cpp
+  FileHandler.cpp
+  loanControl.cpp
+  Main.cpp
+  User.cpp
+  Generating Code...
+c:\users\lamwong\source\repos\groupproject\groupproject\main.cpp(26): warning C4715: 'searchUserName': not all control paths return a value
+  GroupProject.vcxproj -> C:\Users\LamWong\source\repos\GroupProject\Debug\GroupProject.exe
